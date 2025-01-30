@@ -1,2 +1,2 @@
 # Week2
-Visual analysys
+Visual analysis
